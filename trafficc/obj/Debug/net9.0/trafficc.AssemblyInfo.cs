@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trafficc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f8bca424fff3031a25db1b34f14aca87b36dafd")]
 [assembly: System.Reflection.AssemblyProductAttribute("trafficc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trafficc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
